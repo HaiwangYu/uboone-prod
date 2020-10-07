@@ -35,7 +35,7 @@
 
   <!-- Project stages -->
   <stage name="portAll">
-    <fcl>/pnfs/uboone/resilient/users/wgu/run_celltreeub_overlay_wiremod_port_prod.fcl</fcl>
+    <fcl>/pnfs/uboone/resilient/users/wgu/run_celltreeub_overlay_port_prod.fcl</fcl>
 
     <outdir>/pnfs/uboone/scratch/users/&user;/&release;/&name;/port/reco</outdir>
     <logdir>/pnfs/uboone/scratch/users/&user;/&release;/&name;/port/log</logdir>
